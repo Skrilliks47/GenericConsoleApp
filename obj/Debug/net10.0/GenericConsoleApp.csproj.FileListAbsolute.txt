@@ -1,0 +1,14 @@
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\bin\Debug\net10.0\GenericConsoleApp.exe
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\bin\Debug\net10.0\GenericConsoleApp.deps.json
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\bin\Debug\net10.0\GenericConsoleApp.runtimeconfig.json
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\bin\Debug\net10.0\GenericConsoleApp.dll
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\bin\Debug\net10.0\GenericConsoleApp.pdb
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\obj\Debug\net10.0\GenericConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\obj\Debug\net10.0\GenericConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\obj\Debug\net10.0\GenericConsoleApp.AssemblyInfo.cs
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\obj\Debug\net10.0\GenericConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\obj\Debug\net10.0\GenericConsoleApp.dll
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\obj\Debug\net10.0\refint\GenericConsoleApp.dll
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\obj\Debug\net10.0\GenericConsoleApp.pdb
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\obj\Debug\net10.0\GenericConsoleApp.genruntimeconfig.cache
+C:\Users\Александр\Documents\GenericConsoleApp\GenericConsoleApp\obj\Debug\net10.0\ref\GenericConsoleApp.dll
